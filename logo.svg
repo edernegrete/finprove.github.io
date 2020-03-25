@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1150px" height="810px" viewBox="0 0 1150 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Logofinprove</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.2485646%" y1="13.4645037%" x2="50.4858805%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B4D531" offset="0%"></stop>
+            <stop stop-color="#9EB254" offset="82.4641047%"></stop>
+            <stop stop-color="#93BA0A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.0312472%" y1="13.4645037%" x2="52.015826%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#B4D531" offset="0%"></stop>
+            <stop stop-color="#9EB254" offset="82.4641047%"></stop>
+            <stop stop-color="#93BA0A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.9178063%" y1="13.4645037%" x2="51.7940779%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B4D531" offset="0%"></stop>
+            <stop stop-color="#9EB254" offset="82.4641047%"></stop>
+            <stop stop-color="#93BA0A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="11.6962025" y="0" width="228.607595" height="37.6679567"></rect>
+        <filter x="-12.0%" y="-46.5%" width="124.1%" height="285.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="25" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(177.000000, 154.000000)">
+            <g id="Pot" transform="translate(234.000000, 0.000000)">
+                <g id="Pot-Dirt" transform="translate(8.719723, 0.000000)">
+                    <ellipse id="Oval" fill="#A97D50" cx="57.4177215" cy="322.716258" rx="21.2658228" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#8A5F3E" cx="101.544304" cy="309.829086" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#8A5F3E" cx="178.632911" cy="317.346603" rx="21.2658228" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#8A5F3E" cx="144.075949" cy="317.346603" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#8A5F3E" cx="50.5063291" cy="322.716258" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#A97D50" cx="166.405063" cy="322.716258" rx="21.7974684" ry="22.015585"></ellipse>
+                    <g id="Leaves" transform="translate(62.734177, 0.000000)">
+                        <path d="M35.0886076,321.105361 L50.5822785,5.36965487 L71.2405063,321.105361 C70.092827,316.994219 66.649789,314.938648 60.9113924,314.938648 C55.1729958,314.938648 46.5654008,316.994219 35.0886076,321.105361 Z" id="Root" fill="url(#linearGradient-1)"></path>
+                        <path d="M53.164557,0 C71.1876599,21.4739245 83.2382928,38.6568201 89.3164557,51.5486868 C95.3946186,64.4405534 101.065505,84.8452419 106.329114,112.762752 C108.455696,123.263411 109.518987,132.212835 109.518987,139.611027 C109.518987,147.009218 108.455696,158.106505 106.329114,172.902887 L106.329114,176.12468 C101.391604,196.36775 95.7207184,210.68683 89.3164557,219.081919 C86.2196796,223.141357 79.6703855,231.541832 74.4303797,235.190883 C70.6993494,237.78911 64.674033,239.936971 56.3544304,241.634469 L53.164557,0 Z" id="Rigth" fill="url(#linearGradient-2)"></path>
+                        <path d="M53.164557,0 C35.2833194,21.2986715 23.2326865,38.4815671 17.0126582,51.5486868 C10.7926299,64.6158064 5.12174387,84.6625179 0,111.688821 L0,167.533232 C0.828559082,178.481265 1.89185022,186.356759 3.18987342,191.159713 C6.68584474,204.09553 12.8559944,214.792452 17.0126582,221.229781 C23.4843208,231.252293 33.7628018,238.053856 47.8481013,241.634469 L53.164557,0 Z" id="Left" fill="url(#linearGradient-3)"></path>
+                    </g>
+                    <ellipse id="Oval" fill="#A97D50" cx="117.493671" cy="317.346603" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#A97D50" cx="78.1518987" cy="322.716258" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#A97D50" cx="211.063291" cy="322.716258" rx="21.7974684" ry="22.015585"></ellipse>
+                    <ellipse id="Oval" fill="#A97D50" cx="21.7974684" cy="322.716258" rx="21.7974684" ry="22.015585"></ellipse>
+                </g>
+                <g id="Bottom" transform="translate(22.671280, 354.000000)" fill="#92491F">
+                    <polygon id="Triangle" transform="translate(169.063291, 73.778394) rotate(-180.000000) translate(-169.063291, -73.778394) " points="169.063291 0 207.341772 147.556787 130.78481 147.556787"></polygon>
+                    <polygon id="Triangle" transform="translate(38.278481, 73.778394) rotate(-180.000000) translate(-38.278481, -73.778394) " points="38.278481 0 76.556962 147.556787 0 147.556787"></polygon>
+                    <rect id="Rectangle" x="38.278481" y="0" width="130.78481" height="148.633844"></rect>
+                </g>
+                <g id="Top" transform="translate(0.000000, 317.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#C56333" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <polygon id="Triangle" fill="#C56333" transform="translate(239.772152, 16.681524) rotate(-180.000000) translate(-239.772152, -16.681524) " points="239.772152 0 252 33.3630474 227.544304 33.3630474"></polygon>
+                    <polygon id="Triangle" fill="#C56333" transform="translate(12.227848, 16.681524) rotate(-180.000000) translate(-12.227848, -16.681524) " points="12.2278481 0 24.4556962 33.3630474 0 33.3630474"></polygon>
+                </g>
+            </g>
+            <text id="Fin-rove" font-family="AppleGothic" font-size="149" font-weight="normal" letter-spacing="46.6" fill="#D9D9D9">
+                <tspan x="0" y="206">Fin rove</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

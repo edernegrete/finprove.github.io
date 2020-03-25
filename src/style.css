@@ -112,10 +112,14 @@ h6{
 	letter-spacing:-1px;
 	position:relative;
 	float:left;
-	top: 50%;
+	top: 78%;
 	left:0;
 	transform: translateY(-50%);
 	z-index:999;
+}
+.header__logo-title > img {
+	width: 200px;
+	height: 200px;
 }
 /*===============================================*/
 /* 4. SECTION 	 						 */
